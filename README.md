@@ -2,6 +2,8 @@
 
 Modular Open Source PC case designed for Mini-ITX motherboards.
 
+The OpenCase project is licensed under AGPL V3 which allows for personal or commercial use, but it is mandatory to disclose the source (https://github.com/berserkwarwolf/OpenCase/). All modifications to the design are required to be documented and contributed back to the source project. 
+
 **Objectives**
 
 - Modular design for easy customization
