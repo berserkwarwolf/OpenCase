@@ -10,6 +10,7 @@ Modular Open Source PC case designed for Mini-ITX motherboards.
 - Horizontal or Vertical orientation
 - CPU + GPU Airflow intakes in parallel or opposed
 - Choice of 3 sizes with additional top hat options
+- Low contribution requirements (2D design)
 
 **OpenCase Small**
 
