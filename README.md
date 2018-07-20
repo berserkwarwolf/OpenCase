@@ -8,7 +8,7 @@ The OpenCase project is licensed under AGPL V3 which allows for personal or comm
 
 - Modular design for easy customization
 - Easy assembly
-- Can be constructed with off-the-shelf materials
+- Can be constructed with off-the-shelf materials (acrylic, wood, etc.)
 - Horizontal or Vertical orientation
 - CPU + GPU Airflow intakes in parallel or opposed
 - Choice of 3 sizes with additional top hat options
