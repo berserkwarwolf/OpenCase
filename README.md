@@ -1,4 +1,4 @@
-![OpenCase Logo](/berserkwarwolf/OpenCase/img/OPENCASE.png "OpenCase Logo")
+![OpenCase Logo](https://github.com/berserkwarwolf/OpenCase/img/OPENCASE.png "OpenCase Logo")
 
 # OpenCase
 
