@@ -1,4 +1,4 @@
-![OpenCase Logo](/berserkwarwolf/OpenCase/img/opencase.png "OpenCase Logo")
+![OpenCase Logo](/berserkwarwolf/OpenCase/img/OPENCASE.png "OpenCase Logo")
 
 # OpenCase
 
